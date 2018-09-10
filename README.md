@@ -24,7 +24,14 @@ Find out more on [the official website](https://musicalypse.creasource.net).
 
 ## Build
 
-TODO
+**Quickstart**
+
+1. `npm install`
+1. `npm run web:run`
+
+### Dependencies
+
+- [sbt (scala build tool)](https://www.scala-lang.org/download/)
 
 ## Privacy Policy
 
